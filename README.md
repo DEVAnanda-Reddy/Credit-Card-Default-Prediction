@@ -18,7 +18,7 @@ The goal is to provide actionable insights for management and generate daily def
 
 ```
 Credit-Card-Default-Prediction/
-│── data/             # Raw CSVs and processed datasets
+│── dataset/          # Raw CSVs and processed datasets
 │── models/           # Saved ML models (.pkl)
 │── notebooks/        # Jupyter notebooks
 │── requirements.txt  # Python dependencies
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Place your CSV dataset in the `data/` folder.
+1. Place your CSV dataset in the `dataset/` folder.
 2. Open the Jupyter notebook in `notebooks/` to explore, train models, and generate reports.
 3. The best model will be saved automatically in the `models/` folder.
 
