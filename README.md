@@ -31,7 +31,7 @@ Credit-Card-Default-Prediction/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/devanandareddy/Credit-Card-Default-Prediction.git
+git clone https://github.com/DEVAnanda-Reddy/Credit-Card-Default-Prediction.git
 ```
 
 2. Navigate to the project folder:
